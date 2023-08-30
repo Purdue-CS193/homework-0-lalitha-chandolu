@@ -10,7 +10,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - creating
 - collaborating
 
-  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -25,6 +24,9 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+- Bulleted
+- List
 
 **Bold** and _Italic_ and `Code` text
 
