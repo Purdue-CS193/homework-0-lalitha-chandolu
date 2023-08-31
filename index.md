@@ -1,4 +1,4 @@
-# Lalitha Chandolu First CS193 Homework
+# Lalitha Chandolu's First CS193 Homework
 
 - coding
 - creating
